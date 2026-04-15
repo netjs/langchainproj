@@ -1,0 +1,37 @@
+python-dotenv
+
+langchain
+
+langchain-openai
+langchain-google-genai
+langchain-groq
+
+langchain-ollama
+
+langchain_community
+
+langchain-text-splitters
+
+#for ChromaDB
+langchain-chroma
+
+#for streamlit
+streamlit
+
+#for pdf parsing
+pypdf
+
+#for WebBaseLoader  
+beautifulsoup4
+
+#for WikipediaRetriever  
+wikipedia 
+
+# for crewAI
+#crewai
+#litellm
+
+numpy
+
+#for duckduckgo search tool
+#ddgs
