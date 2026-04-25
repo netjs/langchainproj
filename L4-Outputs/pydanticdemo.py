@@ -1,3 +1,6 @@
+"""
+This code file demonstrates how to use Pydantic models for structured outputs in LCEL.
+"""
 from pydantic import BaseModel
 from typing import Optional, List
 from langchain_google_genai import ChatGoogleGenerativeAI

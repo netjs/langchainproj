@@ -1,3 +1,9 @@
+"""
+This code file demonstrates the use RunnableSequence in LCEL. 
+Runs two chain in sequence where the first chain does the risk analysis of a contract 
+clause and the second chain takes that analysis and produces a memo for the financial 
+head.
+"""
 from langchain_core.prompts import PromptTemplate
 from langchain_core.runnables import RunnableSequence
 from langchain_core.output_parsers import StrOutputParser

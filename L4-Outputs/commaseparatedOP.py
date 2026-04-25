@@ -1,3 +1,6 @@
+"""
+This code file demonstrates how to use the CommaSeparatedListOutputParser in LCEL.
+"""
 from langchain_core.prompts import ChatPromptTemplate, HumanMessagePromptTemplate, SystemMessagePromptTemplate
 from langchain_core.output_parsers import CommaSeparatedListOutputParser
 from langchain_ollama import ChatOllama

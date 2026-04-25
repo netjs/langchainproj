@@ -1,3 +1,6 @@
+"""
+This code file demonstrates how to use PydanticOutputParser in LCEL.
+"""
 from langchain_core.output_parsers import JsonOutputParser, PydanticOutputParser
 from pydantic import BaseModel
 from langchain_core.prompts import ChatPromptTemplate, HumanMessagePromptTemplate, SystemMessagePromptTemplate

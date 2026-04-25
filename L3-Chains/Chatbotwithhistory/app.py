@@ -1,3 +1,8 @@
+"""
+UI part of chatbot with history. Uses streamlit for the user interface.
+
+"""
+
 import streamlit as st
 from chatbot import generate_response
 

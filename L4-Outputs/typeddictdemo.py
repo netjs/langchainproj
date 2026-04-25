@@ -1,3 +1,6 @@
+"""
+This code file demonstrates how to use TypedDict for structured outputs in LCEL.
+"""
 from typing import List, Optional, TypedDict
 from langchain_groq import ChatGroq
 from langchain_core.prompts import HumanMessagePromptTemplate, ChatPromptTemplate

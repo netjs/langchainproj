@@ -1,3 +1,6 @@
+"""
+This code file demonstrates how to use JSON Schema for structured outputs in LCEL.
+"""
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import HumanMessagePromptTemplate, ChatPromptTemplate
 from dotenv import load_dotenv
