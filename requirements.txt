@@ -6,6 +6,7 @@ langchain-openai
 langchain-google-genai
 langchain-groq
 langchain-openrouter
+langchain-nvidia-ai-endpoints
 
 langchain-ollama
 
